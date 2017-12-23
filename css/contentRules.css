@@ -2,3 +2,7 @@ body {
   margin: 0 0 0 0;
   padding: 0 0 0 0;
 }
+@@font-face {
+  font-family: headerFont1
+  src:url(../resources/fonts/LobsterRegular.ttf);
+}
