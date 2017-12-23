@@ -3,6 +3,6 @@ body {
   padding: 0 0 0 0;
 }
 @font-face {
-  font-family: headerFont1
-  src: url(../resources/fonts/Lobster-Regular.ttf);
+  font-family: headerFont1;
+  src: url(../resources/fonts/Regular-Lobster.ttf);
 }
