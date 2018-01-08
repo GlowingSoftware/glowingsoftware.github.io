@@ -8,8 +8,8 @@ body {
   src: url(../resources/fonts/lobsterRegular.ttf);
 }
 @font-face {
-	font-family: segoeScript;
-	src: url(../resources/fonts/segoeScript.ttf);
+	font-family: bebasLight;
+	src: url(../resources/fonts/bebasLight.otf);
 }
 @font-face {
 	font-family: bebasBold;
